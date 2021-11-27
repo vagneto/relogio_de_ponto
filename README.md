@@ -1,1 +1,1 @@
-# relogio_de_ponto
+Um pequeno programa para registrar as marcações de horário de funcionários, num relógio de ponto... Com uma mensagem bem tranquila para aqueles que trabalham mais de dez horas por dia. Fui meio preguiçoso e coloquei nomes de variáveis pouco legíveis, mas foi divertido.
